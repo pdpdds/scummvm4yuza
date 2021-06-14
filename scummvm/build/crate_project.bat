@@ -1,0 +1,1 @@
+create_project.exe ..\..\scummvm --msvc --disable-all-engines  --disable-libcurl --disable-sdlnet --disable-theora --disable-bink --enable-engine=hugo

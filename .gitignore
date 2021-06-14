@@ -33,7 +33,8 @@
 
 /.vs
 /Intermediate
-/scummvm/build
+/scummvm/build/Debug
+/scummvm/build/Debug32
 /Debug
 scummvm/devtools/create_project/msvc/create_project.vcxproj.user
 scummvm/dists/RCa06392
