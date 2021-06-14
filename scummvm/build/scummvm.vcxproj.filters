@@ -2,1181 +2,1181 @@
 <Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="audio">
-      <UniqueIdentifier>D9B1A8D3-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA24-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\decoders">
-      <UniqueIdentifier>D9B1A8D4-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA25-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\mods">
-      <UniqueIdentifier>D9B1A8D5-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA26-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\softsynth">
-      <UniqueIdentifier>D9B1A8D6-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA27-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\softsynth\fmtowns_pc98">
-      <UniqueIdentifier>D9B1A8D7-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA28-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\softsynth\mt32">
-      <UniqueIdentifier>D9B1A8D8-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA29-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\softsynth\mt32\c_interface">
-      <UniqueIdentifier>D9B1A8D9-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA2A-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\softsynth\mt32\sha1">
-      <UniqueIdentifier>D9B1A8DA-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA2B-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="audio\softsynth\opl">
-      <UniqueIdentifier>D9B1A8DB-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA2C-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends">
-      <UniqueIdentifier>D9B1A8DC-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA2D-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\audiocd">
-      <UniqueIdentifier>D9B1A8DD-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA2E-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\audiocd\default">
-      <UniqueIdentifier>D9B1A8DE-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA2F-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\audiocd\win32">
-      <UniqueIdentifier>D9B1A8DF-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA30-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\dialogs">
-      <UniqueIdentifier>D9B1A8E0-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA31-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\dialogs\win32">
-      <UniqueIdentifier>D9B1A8E1-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA32-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\events">
-      <UniqueIdentifier>D9B1A8E2-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA33-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\events\default">
-      <UniqueIdentifier>D9B1A8E3-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA34-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\events\sdl">
-      <UniqueIdentifier>D9B1A8E4-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA35-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\fs">
-      <UniqueIdentifier>D9B1A8E5-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA36-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\fs\windows">
-      <UniqueIdentifier>D9B1A8E6-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA37-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\graphics">
-      <UniqueIdentifier>D9B1A8E7-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA38-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\graphics\sdl">
-      <UniqueIdentifier>D9B1A8EB-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA3C-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\graphics\surfacesdl">
-      <UniqueIdentifier>D9B1A8EC-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA3D-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\log">
-      <UniqueIdentifier>D9B1A8ED-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA3E-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\midi">
-      <UniqueIdentifier>D9B1A8EE-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA3F-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\mixer">
-      <UniqueIdentifier>D9B1A8EF-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA40-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\mixer\sdl">
-      <UniqueIdentifier>D9B1A8F0-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA41-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\mutex">
-      <UniqueIdentifier>D9B1A8F1-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA42-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\mutex\sdl">
-      <UniqueIdentifier>D9B1A8F2-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA43-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\platform">
-      <UniqueIdentifier>D9B1A8F3-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA44-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\platform\sdl">
-      <UniqueIdentifier>D9B1A8F4-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA45-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\platform\sdl\win32">
-      <UniqueIdentifier>D9B1A8F5-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA46-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\plugins">
-      <UniqueIdentifier>D9B1A8F6-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA47-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\plugins\sdl">
-      <UniqueIdentifier>D9B1A8F7-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA48-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\plugins\win32">
-      <UniqueIdentifier>D9B1A8F8-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA49-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\saves">
-      <UniqueIdentifier>D9B1A8F9-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA4A-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\saves\default">
-      <UniqueIdentifier>D9B1A8FA-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA4B-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\saves\windows">
-      <UniqueIdentifier>D9B1A8FB-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA4C-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\taskbar">
-      <UniqueIdentifier>D9B1A8FC-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA4D-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\taskbar\win32">
-      <UniqueIdentifier>D9B1A8FD-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA4E-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\timer">
-      <UniqueIdentifier>D9B1A8FE-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA4F-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\timer\default">
-      <UniqueIdentifier>D9B1A8FF-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA50-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\timer\sdl">
-      <UniqueIdentifier>D9B1A900-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA51-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\updates">
-      <UniqueIdentifier>D9B1A901-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA52-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\updates\win32">
-      <UniqueIdentifier>D9B1A902-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA53-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="base">
-      <UniqueIdentifier>D9B1A903-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA54-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="common">
-      <UniqueIdentifier>D9B1A904-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA55-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="common\lua">
-      <UniqueIdentifier>D9B1A905-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA56-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="dists">
-      <UniqueIdentifier>D9B1A906-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA57-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="engines">
-      <UniqueIdentifier>D9B1A907-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA58-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="graphics">
-      <UniqueIdentifier>D9B1A908-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA59-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="graphics\fonts">
-      <UniqueIdentifier>D9B1A909-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA5A-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="graphics\macgui">
-      <UniqueIdentifier>D9B1A90A-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA5B-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="graphics\scaler">
-      <UniqueIdentifier>D9B1A90B-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA5C-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="gui">
-      <UniqueIdentifier>D9B1A90C-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA5D-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="gui\animation">
-      <UniqueIdentifier>D9B1A90D-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA5E-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="gui\widgets">
-      <UniqueIdentifier>D9B1A90E-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA5F-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="icons">
-      <UniqueIdentifier>D9B1A90F-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA60-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="image">
-      <UniqueIdentifier>D9B1A910-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA61-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="image\codecs">
-      <UniqueIdentifier>D9B1A911-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA62-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="image\codecs\indeo">
-      <UniqueIdentifier>D9B1A912-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA63-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="video">
-      <UniqueIdentifier>D9B1A913-CB66-11EB-9DC8-001B1000170D</UniqueIdentifier>
+      <UniqueIdentifier>CC9FFA64-CCC3-11EB-9DD5-001B1000170D</UniqueIdentifier>
     </Filter>
     <Filter Include="backends\fs\yuza">
-      <UniqueIdentifier>{d567f68a-9497-4115-9cbb-b3d73883f1f6}</UniqueIdentifier>
+      <UniqueIdentifier>{f471763a-f490-437e-a7c1-da26b324e889}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\adlib.cpp">
+    <ClCompile Include="..\..\scummvm\audio\adlib.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\audiostream.cpp">
+    <ClCompile Include="..\..\scummvm\audio\audiostream.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\3do.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\3do.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\aac.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\aac.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\adpcm.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\adpcm.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\aiff.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\aiff.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\flac.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\flac.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\iff_sound.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\iff_sound.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\mac_snd.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\mac_snd.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\mp3.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\mp3.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\qdm2.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\qdm2.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\quicktime.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\quicktime.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\raw.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\raw.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\voc.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\voc.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\vorbis.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\vorbis.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\wave.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\wave.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\xa.cpp">
+    <ClCompile Include="..\..\scummvm\audio\decoders\xa.cpp">
       <Filter>audio\decoders</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\fmopl.cpp">
+    <ClCompile Include="..\..\scummvm\audio\fmopl.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mididrv.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mididrv.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiparser.cpp">
+    <ClCompile Include="..\..\scummvm\audio\midiparser.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiparser_qt.cpp">
+    <ClCompile Include="..\..\scummvm\audio\midiparser_qt.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiparser_smf.cpp">
+    <ClCompile Include="..\..\scummvm\audio\midiparser_smf.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiparser_xmidi.cpp">
+    <ClCompile Include="..\..\scummvm\audio\midiparser_xmidi.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiplayer.cpp">
+    <ClCompile Include="..\..\scummvm\audio\midiplayer.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\miles_adlib.cpp">
+    <ClCompile Include="..\..\scummvm\audio\miles_adlib.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\miles_mt32.cpp">
+    <ClCompile Include="..\..\scummvm\audio\miles_mt32.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mixer.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mixer.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\infogrames.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\infogrames.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\maxtrax.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\maxtrax.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\mod_xm_s3m.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\mod_xm_s3m.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\module.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\module.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\module_mod_xm_s3m.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\module_mod_xm_s3m.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\paula.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\paula.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\protracker.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\protracker.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\rjp1.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\rjp1.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\soundfx.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\soundfx.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\tfmx.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mods\tfmx.cpp">
       <Filter>audio\mods</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mpu401.cpp">
+    <ClCompile Include="..\..\scummvm\audio\mpu401.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\musicplugin.cpp">
+    <ClCompile Include="..\..\scummvm\audio\musicplugin.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\null.cpp">
+    <ClCompile Include="..\..\scummvm\audio\null.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\rate.cpp">
+    <ClCompile Include="..\..\scummvm\audio\rate.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\appleiigs.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\appleiigs.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\cms.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\cms.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\eas.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\eas.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fluidsynth.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\fluidsynth.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\pc98_audio.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\pc98_audio.cpp">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_audio.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_audio.cpp">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_euphony.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_euphony.cpp">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_driver.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_driver.cpp">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_fmsynth.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_fmsynth.cpp">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_plugins.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_plugins.cpp">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Analog.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\Analog.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\BReverbModel.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\BReverbModel.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\File.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\File.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\FileStream.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\FileStream.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\LA32FloatWaveGenerator.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\LA32FloatWaveGenerator.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\LA32Ramp.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\LA32Ramp.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\LA32WaveGenerator.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\LA32WaveGenerator.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\MidiStreamParser.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\MidiStreamParser.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Part.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\Part.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Partial.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\Partial.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\PartialManager.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\PartialManager.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Poly.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\Poly.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\ROMInfo.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\ROMInfo.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\SampleRateConverter.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\SampleRateConverter.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Synth.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\Synth.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\TVA.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\TVA.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\TVF.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\TVF.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\TVP.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\TVP.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Tables.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\Tables.cpp">
       <Filter>audio\softsynth\mt32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\c_interface\c_interface.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\c_interface\c_interface.cpp">
       <Filter>audio\softsynth\mt32\c_interface</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\sha1\sha1.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\mt32\sha1\sha1.cpp">
       <Filter>audio\softsynth\mt32\sha1</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\dbopl.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\opl\dbopl.cpp">
       <Filter>audio\softsynth\opl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\dosbox.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\opl\dosbox.cpp">
       <Filter>audio\softsynth\opl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\mame.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\opl\mame.cpp">
       <Filter>audio\softsynth\opl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\nuked.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\opl\nuked.cpp">
       <Filter>audio\softsynth\opl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\pcspk.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\pcspk.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\sid.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\sid.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\wave6581.cpp">
+    <ClCompile Include="..\..\scummvm\audio\softsynth\wave6581.cpp">
       <Filter>audio\softsynth</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\audio\timestamp.cpp">
+    <ClCompile Include="..\..\scummvm\audio\timestamp.cpp">
       <Filter>audio</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\audiocd\audiocd-stream.cpp">
+    <ClCompile Include="..\..\scummvm\backends\audiocd\audiocd-stream.cpp">
       <Filter>backends\audiocd</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\audiocd\default\default-audiocd.cpp">
+    <ClCompile Include="..\..\scummvm\backends\audiocd\default\default-audiocd.cpp">
       <Filter>backends\audiocd\default</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\audiocd\win32\win32-audiocd.cpp">
+    <ClCompile Include="..\..\scummvm\backends\audiocd\win32\win32-audiocd.cpp">
       <Filter>backends\audiocd\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\base-backend.cpp">
+    <ClCompile Include="..\..\scummvm\backends\base-backend.cpp">
       <Filter>backends</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\dialogs\win32\win32-dialogs.cpp">
+    <ClCompile Include="..\..\scummvm\backends\dialogs\win32\win32-dialogs.cpp">
       <Filter>backends\dialogs\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\events\default\default-events.cpp">
+    <ClCompile Include="..\..\scummvm\backends\events\default\default-events.cpp">
       <Filter>backends\events\default</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\events\sdl\sdl-events.cpp">
+    <ClCompile Include="..\..\scummvm\backends\events\sdl\sdl-events.cpp">
       <Filter>backends\events\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\abstract-fs.cpp">
+    <ClCompile Include="..\..\scummvm\backends\fs\abstract-fs.cpp">
       <Filter>backends\fs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\stdiostream.cpp">
+    <ClCompile Include="..\..\scummvm\backends\fs\stdiostream.cpp">
       <Filter>backends\fs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\windows\windows-fs-factory.cpp">
+    <ClCompile Include="..\..\scummvm\backends\fs\windows\windows-fs-factory.cpp">
       <Filter>backends\fs\windows</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\windows\windows-fs.cpp">
+    <ClCompile Include="..\..\scummvm\backends\fs\windows\windows-fs.cpp">
       <Filter>backends\fs\windows</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\graphics\sdl\sdl-graphics.cpp">
+    <ClCompile Include="..\..\scummvm\backends\graphics\sdl\sdl-graphics.cpp">
       <Filter>backends\graphics\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\graphics\surfacesdl\surfacesdl-graphics.cpp">
+    <ClCompile Include="..\..\scummvm\backends\graphics\surfacesdl\surfacesdl-graphics.cpp">
       <Filter>backends\graphics\surfacesdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\log\log.cpp">
+    <ClCompile Include="..\..\scummvm\backends\log\log.cpp">
       <Filter>backends\log</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\midi\alsa.cpp">
+    <ClCompile Include="..\..\scummvm\backends\midi\alsa.cpp">
       <Filter>backends\midi</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\midi\dmedia.cpp">
+    <ClCompile Include="..\..\scummvm\backends\midi\dmedia.cpp">
       <Filter>backends\midi</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\midi\seq.cpp">
+    <ClCompile Include="..\..\scummvm\backends\midi\seq.cpp">
       <Filter>backends\midi</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\midi\sndio.cpp">
+    <ClCompile Include="..\..\scummvm\backends\midi\sndio.cpp">
       <Filter>backends\midi</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\midi\stmidi.cpp">
+    <ClCompile Include="..\..\scummvm\backends\midi\stmidi.cpp">
       <Filter>backends\midi</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\midi\timidity.cpp">
+    <ClCompile Include="..\..\scummvm\backends\midi\timidity.cpp">
       <Filter>backends\midi</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\midi\windows.cpp">
+    <ClCompile Include="..\..\scummvm\backends\midi\windows.cpp">
       <Filter>backends\midi</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\mixer\sdl\sdl-mixer.cpp">
+    <ClCompile Include="..\..\scummvm\backends\mixer\sdl\sdl-mixer.cpp">
       <Filter>backends\mixer\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\modular-backend.cpp">
+    <ClCompile Include="..\..\scummvm\backends\modular-backend.cpp">
       <Filter>backends</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\mutex\sdl\sdl-mutex.cpp">
+    <ClCompile Include="..\..\scummvm\backends\mutex\sdl\sdl-mutex.cpp">
       <Filter>backends\mutex\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\sdl-window.cpp">
+    <ClCompile Include="..\..\scummvm\backends\platform\sdl\sdl-window.cpp">
       <Filter>backends\platform\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\sdl.cpp">
+    <ClCompile Include="..\..\scummvm\backends\platform\sdl\sdl.cpp">
       <Filter>backends\platform\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\win32-main.cpp">
+    <ClCompile Include="..\..\scummvm\backends\platform\sdl\win32\win32-main.cpp">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\win32-window.cpp">
+    <ClCompile Include="..\..\scummvm\backends\platform\sdl\win32\win32-window.cpp">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\win32.cpp">
+    <ClCompile Include="..\..\scummvm\backends\platform\sdl\win32\win32.cpp">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\win32_wrapper.cpp">
+    <ClCompile Include="..\..\scummvm\backends\platform\sdl\win32\win32_wrapper.cpp">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\plugins\sdl\sdl-provider.cpp">
+    <ClCompile Include="..\..\scummvm\backends\plugins\sdl\sdl-provider.cpp">
       <Filter>backends\plugins\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\plugins\win32\win32-provider.cpp">
+    <ClCompile Include="..\..\scummvm\backends\plugins\win32\win32-provider.cpp">
       <Filter>backends\plugins\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\saves\default\default-saves.cpp">
+    <ClCompile Include="..\..\scummvm\backends\saves\default\default-saves.cpp">
       <Filter>backends\saves\default</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\saves\savefile.cpp">
+    <ClCompile Include="..\..\scummvm\backends\saves\savefile.cpp">
       <Filter>backends\saves</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\saves\windows\windows-saves.cpp">
+    <ClCompile Include="..\..\scummvm\backends\saves\windows\windows-saves.cpp">
       <Filter>backends\saves\windows</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\taskbar\win32\win32-taskbar.cpp">
+    <ClCompile Include="..\..\scummvm\backends\taskbar\win32\win32-taskbar.cpp">
       <Filter>backends\taskbar\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\timer\default\default-timer.cpp">
+    <ClCompile Include="..\..\scummvm\backends\timer\default\default-timer.cpp">
       <Filter>backends\timer\default</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\timer\sdl\sdl-timer.cpp">
+    <ClCompile Include="..\..\scummvm\backends\timer\sdl\sdl-timer.cpp">
       <Filter>backends\timer\sdl</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\backends\updates\win32\win32-updates.cpp">
+    <ClCompile Include="..\..\scummvm\backends\updates\win32\win32-updates.cpp">
       <Filter>backends\updates\win32</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\base\commandLine.cpp">
+    <ClCompile Include="..\..\scummvm\base\commandLine.cpp">
       <Filter>base</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\base\main.cpp">
+    <ClCompile Include="..\..\scummvm\base\main.cpp">
       <Filter>base</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\base\plugins.cpp">
+    <ClCompile Include="..\..\scummvm\base\plugins.cpp">
       <Filter>base</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\base\version.cpp">
+    <ClCompile Include="..\..\scummvm\base\version.cpp">
       <Filter>base</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\EventDispatcher.cpp">
+    <ClCompile Include="..\..\scummvm\common\EventDispatcher.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\EventMapper.cpp">
+    <ClCompile Include="..\..\scummvm\common\EventMapper.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\archive.cpp">
+    <ClCompile Include="..\..\scummvm\common\archive.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\config-manager.cpp">
+    <ClCompile Include="..\..\scummvm\common\config-manager.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\coroutines.cpp">
+    <ClCompile Include="..\..\scummvm\common\coroutines.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\cosinetables.cpp">
+    <ClCompile Include="..\..\scummvm\common\cosinetables.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\dcl.cpp">
+    <ClCompile Include="..\..\scummvm\common\dcl.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\dct.cpp">
+    <ClCompile Include="..\..\scummvm\common\dct.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\debug.cpp">
+    <ClCompile Include="..\..\scummvm\common\debug.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\encoding.cpp">
+    <ClCompile Include="..\..\scummvm\common\encoding.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\error.cpp">
+    <ClCompile Include="..\..\scummvm\common\error.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\fft.cpp">
+    <ClCompile Include="..\..\scummvm\common\fft.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\file.cpp">
+    <ClCompile Include="..\..\scummvm\common\file.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\fs.cpp">
+    <ClCompile Include="..\..\scummvm\common\fs.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\gui_options.cpp">
+    <ClCompile Include="..\..\scummvm\common\gui_options.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\hashmap.cpp">
+    <ClCompile Include="..\..\scummvm\common\hashmap.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\iff_container.cpp">
+    <ClCompile Include="..\..\scummvm\common\iff_container.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\ini-file.cpp">
+    <ClCompile Include="..\..\scummvm\common\ini-file.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\installshield_cab.cpp">
+    <ClCompile Include="..\..\scummvm\common\installshield_cab.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\json.cpp">
+    <ClCompile Include="..\..\scummvm\common\json.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\language.cpp">
+    <ClCompile Include="..\..\scummvm\common\language.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\localization.cpp">
+    <ClCompile Include="..\..\scummvm\common\localization.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\double_serialization.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\double_serialization.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lapi.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lapi.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lauxlib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lauxlib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lbaselib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lbaselib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lcode.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lcode.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ldblib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\ldblib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ldebug.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\ldebug.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ldo.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\ldo.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lfunc.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lfunc.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lgc.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lgc.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\linit.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\linit.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\liolib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\liolib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\llex.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\llex.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lmathlib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lmathlib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lmem.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lmem.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\loadlib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\loadlib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lobject.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lobject.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lopcodes.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lopcodes.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\loslib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\loslib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lparser.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lparser.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lstate.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lstate.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lstring.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lstring.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lstrlib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lstrlib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ltable.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\ltable.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ltablib.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\ltablib.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ltm.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\ltm.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lua_persist.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lua_persist.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lua_persistence_util.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lua_persistence_util.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lua_unpersist.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lua_unpersist.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lvm.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lvm.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lzio.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\lzio.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\scummvm_file.cpp">
+    <ClCompile Include="..\..\scummvm\common\lua\scummvm_file.cpp">
       <Filter>common\lua</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\macresman.cpp">
+    <ClCompile Include="..\..\scummvm\common\macresman.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\md5.cpp">
+    <ClCompile Include="..\..\scummvm\common\md5.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\memorypool.cpp">
+    <ClCompile Include="..\..\scummvm\common\memorypool.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\mutex.cpp">
+    <ClCompile Include="..\..\scummvm\common\mutex.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\osd_message_queue.cpp">
+    <ClCompile Include="..\..\scummvm\common\osd_message_queue.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\platform.cpp">
+    <ClCompile Include="..\..\scummvm\common\platform.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\quicktime.cpp">
+    <ClCompile Include="..\..\scummvm\common\quicktime.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\random.cpp">
+    <ClCompile Include="..\..\scummvm\common\random.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\rational.cpp">
+    <ClCompile Include="..\..\scummvm\common\rational.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\rdft.cpp">
+    <ClCompile Include="..\..\scummvm\common\rdft.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\rendermode.cpp">
+    <ClCompile Include="..\..\scummvm\common\rendermode.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\sinetables.cpp">
+    <ClCompile Include="..\..\scummvm\common\sinetables.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\str.cpp">
+    <ClCompile Include="..\..\scummvm\common\str.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\stream.cpp">
+    <ClCompile Include="..\..\scummvm\common\stream.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\system.cpp">
+    <ClCompile Include="..\..\scummvm\common\system.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\textconsole.cpp">
+    <ClCompile Include="..\..\scummvm\common\textconsole.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\tokenizer.cpp">
+    <ClCompile Include="..\..\scummvm\common\tokenizer.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\translation.cpp">
+    <ClCompile Include="..\..\scummvm\common\translation.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\unarj.cpp">
+    <ClCompile Include="..\..\scummvm\common\unarj.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\unzip.cpp">
+    <ClCompile Include="..\..\scummvm\common\unzip.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\ustr.cpp">
+    <ClCompile Include="..\..\scummvm\common\ustr.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\util.cpp">
+    <ClCompile Include="..\..\scummvm\common\util.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\winexe.cpp">
+    <ClCompile Include="..\..\scummvm\common\winexe.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\winexe_ne.cpp">
+    <ClCompile Include="..\..\scummvm\common\winexe_ne.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\winexe_pe.cpp">
+    <ClCompile Include="..\..\scummvm\common\winexe_pe.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\xmlparser.cpp">
+    <ClCompile Include="..\..\scummvm\common\xmlparser.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\common\zlib.cpp">
+    <ClCompile Include="..\..\scummvm\common\zlib.cpp">
       <Filter>common</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\engines\advancedDetector.cpp">
+    <ClCompile Include="..\..\scummvm\engines\advancedDetector.cpp">
       <Filter>engines</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\engines\dialogs.cpp">
+    <ClCompile Include="..\..\scummvm\engines\dialogs.cpp">
       <Filter>engines</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\engines\engine.cpp">
+    <ClCompile Include="..\..\scummvm\engines\engine.cpp">
       <Filter>engines</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\engines\game.cpp">
+    <ClCompile Include="..\..\scummvm\engines\game.cpp">
       <Filter>engines</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\engines\obsolete.cpp">
+    <ClCompile Include="..\..\scummvm\engines\obsolete.cpp">
       <Filter>engines</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\engines\savestate.cpp">
+    <ClCompile Include="..\..\scummvm\engines\savestate.cpp">
       <Filter>engines</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\VectorRenderer.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\VectorRenderer.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\VectorRendererSpec.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\VectorRendererSpec.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\conversion.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\conversion.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\cursorman.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\cursorman.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\font.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\font.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fontman.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fontman.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\bdf.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fonts\bdf.cpp">
       <Filter>graphics\fonts</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\consolefont.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fonts\consolefont.cpp">
       <Filter>graphics\fonts</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\macfont.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fonts\macfont.cpp">
       <Filter>graphics\fonts</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\newfont.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fonts\newfont.cpp">
       <Filter>graphics\fonts</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\newfont_big.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fonts\newfont_big.cpp">
       <Filter>graphics\fonts</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\ttf.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fonts\ttf.cpp">
       <Filter>graphics\fonts</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\winfont.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\fonts\winfont.cpp">
       <Filter>graphics\fonts</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\maccursor.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\maccursor.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macfontmanager.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\macgui\macfontmanager.cpp">
       <Filter>graphics\macgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macmenu.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\macgui\macmenu.cpp">
       <Filter>graphics\macgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\mactext.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\macgui\mactext.cpp">
       <Filter>graphics\macgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\mactextwindow.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\macgui\mactextwindow.cpp">
       <Filter>graphics\macgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macwindow.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\macgui\macwindow.cpp">
       <Filter>graphics\macgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macwindowborder.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\macgui\macwindowborder.cpp">
       <Filter>graphics\macgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macwindowmanager.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\macgui\macwindowmanager.cpp">
       <Filter>graphics\macgui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\managed_surface.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\managed_surface.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\nine_patch.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\nine_patch.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\pixelformat.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\pixelformat.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\primitives.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\primitives.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\2xsai.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\2xsai.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\aspect.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\aspect.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\downscaler.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\downscaler.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\hq2x.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\hq2x.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\hq3x.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\hq3x.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\scale2x.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\scale2x.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\scale3x.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\scale3x.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\scalebit.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\scalebit.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\thumbnail_intern.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\scaler\thumbnail_intern.cpp">
       <Filter>graphics\scaler</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\screen.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\screen.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\sjis.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\sjis.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\surface.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\surface.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\thumbnail.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\thumbnail.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\transform_struct.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\transform_struct.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\transform_tools.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\transform_tools.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\transparent_surface.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\transparent_surface.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\wincursor.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\wincursor.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\yuv_to_rgb.cpp">
+    <ClCompile Include="..\..\scummvm\graphics\yuv_to_rgb.cpp">
       <Filter>graphics</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\EventRecorder.cpp">
+    <ClCompile Include="..\..\scummvm\gui\EventRecorder.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeEngine.cpp">
+    <ClCompile Include="..\..\scummvm\gui\ThemeEngine.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeEval.cpp">
+    <ClCompile Include="..\..\scummvm\gui\ThemeEval.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeLayout.cpp">
+    <ClCompile Include="..\..\scummvm\gui\ThemeLayout.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeParser.cpp">
+    <ClCompile Include="..\..\scummvm\gui\ThemeParser.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\Tooltip.cpp">
+    <ClCompile Include="..\..\scummvm\gui\Tooltip.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\about.cpp">
+    <ClCompile Include="..\..\scummvm\gui\about.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\Animation.cpp">
+    <ClCompile Include="..\..\scummvm\gui\animation\Animation.cpp">
       <Filter>gui\animation</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\RepeatAnimationWrapper.cpp">
+    <ClCompile Include="..\..\scummvm\gui\animation\RepeatAnimationWrapper.cpp">
       <Filter>gui\animation</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\SequenceAnimationComposite.cpp">
+    <ClCompile Include="..\..\scummvm\gui\animation\SequenceAnimationComposite.cpp">
       <Filter>gui\animation</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\browser.cpp">
+    <ClCompile Include="..\..\scummvm\gui\browser.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\chooser.cpp">
+    <ClCompile Include="..\..\scummvm\gui\chooser.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\console.cpp">
+    <ClCompile Include="..\..\scummvm\gui\console.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\debugger.cpp">
+    <ClCompile Include="..\..\scummvm\gui\debugger.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\dialog.cpp">
+    <ClCompile Include="..\..\scummvm\gui\dialog.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\editgamedialog.cpp">
+    <ClCompile Include="..\..\scummvm\gui\editgamedialog.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\error.cpp">
+    <ClCompile Include="..\..\scummvm\gui\error.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\filebrowser-dialog.cpp">
+    <ClCompile Include="..\..\scummvm\gui\filebrowser-dialog.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\fluidsynth-dialog.cpp">
+    <ClCompile Include="..\..\scummvm\gui\fluidsynth-dialog.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\gui-manager.cpp">
+    <ClCompile Include="..\..\scummvm\gui\gui-manager.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\launcher.cpp">
+    <ClCompile Include="..\..\scummvm\gui\launcher.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\massadd.cpp">
+    <ClCompile Include="..\..\scummvm\gui\massadd.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\message.cpp">
+    <ClCompile Include="..\..\scummvm\gui\message.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\object.cpp">
+    <ClCompile Include="..\..\scummvm\gui\object.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\options.cpp">
+    <ClCompile Include="..\..\scummvm\gui\options.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\predictivedialog.cpp">
+    <ClCompile Include="..\..\scummvm\gui\predictivedialog.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\saveload-dialog.cpp">
+    <ClCompile Include="..\..\scummvm\gui\saveload-dialog.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\saveload.cpp">
+    <ClCompile Include="..\..\scummvm\gui\saveload.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\themebrowser.cpp">
+    <ClCompile Include="..\..\scummvm\gui\themebrowser.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\unknown-game-dialog.cpp">
+    <ClCompile Include="..\..\scummvm\gui\unknown-game-dialog.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widget.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widget.cpp">
       <Filter>gui</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\editable.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widgets\editable.cpp">
       <Filter>gui\widgets</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\edittext.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widgets\edittext.cpp">
       <Filter>gui\widgets</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\list.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widgets\list.cpp">
       <Filter>gui\widgets</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\popup.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widgets\popup.cpp">
       <Filter>gui\widgets</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\scrollbar.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widgets\scrollbar.cpp">
       <Filter>gui\widgets</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\scrollcontainer.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widgets\scrollcontainer.cpp">
       <Filter>gui\widgets</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\tab.cpp">
+    <ClCompile Include="..\..\scummvm\gui\widgets\tab.cpp">
       <Filter>gui\widgets</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\bmp.cpp">
+    <ClCompile Include="..\..\scummvm\image\bmp.cpp">
       <Filter>image</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\bmp_raw.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\bmp_raw.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\cdtoons.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\cdtoons.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\cinepak.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\cinepak.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\codec.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\codec.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo3.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\indeo3.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo4.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\indeo4.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo5.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\indeo5.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\indeo.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\indeo\indeo.cpp">
       <Filter>image\codecs\indeo</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\indeo_dsp.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\indeo\indeo_dsp.cpp">
       <Filter>image\codecs\indeo</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\mem.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\indeo\mem.cpp">
       <Filter>image\codecs\indeo</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\vlc.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\indeo\vlc.cpp">
       <Filter>image\codecs\indeo</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\mjpeg.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\mjpeg.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\msrle.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\msrle.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\msrle4.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\msrle4.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\msvideo1.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\msvideo1.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\qtrle.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\qtrle.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\rpza.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\rpza.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\smc.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\smc.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\svq1.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\svq1.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\truemotion1.cpp">
+    <ClCompile Include="..\..\scummvm\image\codecs\truemotion1.cpp">
       <Filter>image\codecs</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\iff.cpp">
+    <ClCompile Include="..\..\scummvm\image\iff.cpp">
       <Filter>image</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\jpeg.cpp">
+    <ClCompile Include="..\..\scummvm\image\jpeg.cpp">
       <Filter>image</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\pcx.cpp">
+    <ClCompile Include="..\..\scummvm\image\pcx.cpp">
       <Filter>image</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\pict.cpp">
+    <ClCompile Include="..\..\scummvm\image\pict.cpp">
       <Filter>image</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\png.cpp">
+    <ClCompile Include="..\..\scummvm\image\png.cpp">
       <Filter>image</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\image\tga.cpp">
+    <ClCompile Include="..\..\scummvm\image\tga.cpp">
       <Filter>image</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\avi_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\avi_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\coktel_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\coktel_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\dxa_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\dxa_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\flic_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\flic_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\mpegps_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\mpegps_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\psx_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\psx_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\qt_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\qt_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\smk_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\smk_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
-    <ClCompile Include="D:\github\yuzaos\sample\emulator\scummvm\video\video_decoder.cpp">
+    <ClCompile Include="..\..\scummvm\video\video_decoder.cpp">
       <Filter>video</Filter>
     </ClCompile>
     <ClCompile Include="..\backends\fs\yuza\yuza.cpp">
@@ -1196,1192 +1196,1195 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\audiostream.h">
+    <ClInclude Include="..\..\scummvm\audio\audiostream.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\3do.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\3do.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\aac.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\aac.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\adpcm.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\adpcm.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\adpcm_intern.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\adpcm_intern.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\aiff.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\aiff.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\codec.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\codec.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\flac.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\flac.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\iff_sound.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\iff_sound.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\mac_snd.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\mac_snd.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\mp3.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\mp3.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\qdm2.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\qdm2.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\qdm2data.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\qdm2data.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\quicktime.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\quicktime.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\quicktime_intern.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\quicktime_intern.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\raw.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\raw.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\voc.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\voc.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\vorbis.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\vorbis.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\wave.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\wave.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\decoders\xa.h">
+    <ClInclude Include="..\..\scummvm\audio\decoders\xa.h">
       <Filter>audio\decoders</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\fmopl.h">
+    <ClInclude Include="..\..\scummvm\audio\fmopl.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mididrv.h">
+    <ClInclude Include="..\..\scummvm\audio\mididrv.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiparser.h">
+    <ClInclude Include="..\..\scummvm\audio\midiparser.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiparser_qt.h">
+    <ClInclude Include="..\..\scummvm\audio\midiparser_qt.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\midiplayer.h">
+    <ClInclude Include="..\..\scummvm\audio\midiplayer.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\miles.h">
+    <ClInclude Include="..\..\scummvm\audio\miles.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mixer.h">
+    <ClInclude Include="..\..\scummvm\audio\mixer.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mixer_intern.h">
+    <ClInclude Include="..\..\scummvm\audio\mixer_intern.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\infogrames.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\infogrames.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\maxtrax.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\maxtrax.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\mod_xm_s3m.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\mod_xm_s3m.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\module.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\module.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\module_mod_xm_s3m.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\module_mod_xm_s3m.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\paula.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\paula.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\protracker.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\protracker.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\rjp1.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\rjp1.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\soundfx.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\soundfx.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mods\tfmx.h">
+    <ClInclude Include="..\..\scummvm\audio\mods\tfmx.h">
       <Filter>audio\mods</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\mpu401.h">
+    <ClInclude Include="..\..\scummvm\audio\mpu401.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\musicplugin.h">
+    <ClInclude Include="..\..\scummvm\audio\musicplugin.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\null.h">
+    <ClInclude Include="..\..\scummvm\audio\null.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\rate.h">
+    <ClInclude Include="..\..\scummvm\audio\rate.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\cms.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\cms.h">
       <Filter>audio\softsynth</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\emumidi.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\emumidi.h">
       <Filter>audio\softsynth</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\pc98_audio.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\pc98_audio.h">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_audio.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_audio.h">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_euphony.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_euphony.h">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_driver.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_driver.h">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_fmsynth.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\fmtowns_pc98\towns_pc98_fmsynth.h">
       <Filter>audio\softsynth\fmtowns_pc98</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Analog.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Analog.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\BReverbModel.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\BReverbModel.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Enumerations.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Enumerations.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\File.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\File.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\FileStream.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\FileStream.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\LA32FloatWaveGenerator.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\LA32FloatWaveGenerator.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\LA32Ramp.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\LA32Ramp.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\LA32WaveGenerator.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\LA32WaveGenerator.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\MemoryRegion.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\MemoryRegion.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\MidiEventQueue.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\MidiEventQueue.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\MidiStreamParser.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\MidiStreamParser.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Part.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Part.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Partial.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Partial.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\PartialManager.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\PartialManager.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Poly.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Poly.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\ROMInfo.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\ROMInfo.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\SampleRateConverter.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\SampleRateConverter.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Structures.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Structures.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Synth.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Synth.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\TVA.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\TVA.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\TVF.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\TVF.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\TVP.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\TVP.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Tables.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Tables.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\Types.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\Types.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\c_interface\c_interface.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\c_interface\c_interface.h">
       <Filter>audio\softsynth\mt32\c_interface</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\c_interface\c_types.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\c_interface\c_types.h">
       <Filter>audio\softsynth\mt32\c_interface</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\c_interface\cpp_interface.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\c_interface\cpp_interface.h">
       <Filter>audio\softsynth\mt32\c_interface</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\config.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\config.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\globals.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\globals.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\internals.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\internals.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\mmath.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\mmath.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\mt32emu.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\mt32emu.h">
       <Filter>audio\softsynth\mt32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\sha1\sha1.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\mt32\sha1\sha1.h">
       <Filter>audio\softsynth\mt32\sha1</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\dbopl.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\opl\dbopl.h">
       <Filter>audio\softsynth\opl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\dosbox.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\opl\dosbox.h">
       <Filter>audio\softsynth\opl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\mame.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\opl\mame.h">
       <Filter>audio\softsynth\opl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\opl\nuked.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\opl\nuked.h">
       <Filter>audio\softsynth\opl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\pcspk.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\pcspk.h">
       <Filter>audio\softsynth</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\sid.h">
+    <ClInclude Include="..\..\scummvm\audio\softsynth\sid.h">
       <Filter>audio\softsynth</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\audio\timestamp.h">
+    <ClInclude Include="..\..\scummvm\audio\timestamp.h">
       <Filter>audio</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\audiocd\audiocd-stream.h">
+    <ClInclude Include="..\..\scummvm\backends\audiocd\audiocd-stream.h">
       <Filter>backends\audiocd</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\audiocd\audiocd.h">
+    <ClInclude Include="..\..\scummvm\backends\audiocd\audiocd.h">
       <Filter>backends\audiocd</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\audiocd\default\default-audiocd.h">
+    <ClInclude Include="..\..\scummvm\backends\audiocd\default\default-audiocd.h">
       <Filter>backends\audiocd\default</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\audiocd\win32\win32-audiocd.h">
+    <ClInclude Include="..\..\scummvm\backends\audiocd\win32\win32-audiocd.h">
       <Filter>backends\audiocd\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\base-backend.h">
+    <ClInclude Include="..\..\scummvm\backends\base-backend.h">
       <Filter>backends</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\dialogs\win32\mingw-compat.h">
+    <ClInclude Include="..\..\scummvm\backends\dialogs\win32\mingw-compat.h">
       <Filter>backends\dialogs\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\dialogs\win32\win32-dialogs.h">
+    <ClInclude Include="..\..\scummvm\backends\dialogs\win32\win32-dialogs.h">
       <Filter>backends\dialogs\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\events\default\default-events.h">
+    <ClInclude Include="..\..\scummvm\backends\events\default\default-events.h">
       <Filter>backends\events\default</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\events\sdl\sdl-events.h">
+    <ClInclude Include="..\..\scummvm\backends\events\sdl\sdl-events.h">
       <Filter>backends\events\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\abstract-fs.h">
+    <ClInclude Include="..\..\scummvm\backends\fs\abstract-fs.h">
       <Filter>backends\fs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\fs-factory.h">
+    <ClInclude Include="..\..\scummvm\backends\fs\fs-factory.h">
       <Filter>backends\fs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\stdiostream.h">
+    <ClInclude Include="..\..\scummvm\backends\fs\stdiostream.h">
       <Filter>backends\fs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\windows\windows-fs-factory.h">
+    <ClInclude Include="..\..\scummvm\backends\fs\windows\windows-fs-factory.h">
       <Filter>backends\fs\windows</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\fs\windows\windows-fs.h">
+    <ClInclude Include="..\..\scummvm\backends\fs\windows\windows-fs.h">
       <Filter>backends\fs\windows</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\graphics\default-palette.h">
+    <ClInclude Include="..\..\scummvm\backends\graphics\default-palette.h">
       <Filter>backends\graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\graphics\graphics.h">
+    <ClInclude Include="..\..\scummvm\backends\graphics\graphics.h">
       <Filter>backends\graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\graphics\sdl\sdl-graphics.h">
+    <ClInclude Include="..\..\scummvm\backends\graphics\sdl\sdl-graphics.h">
       <Filter>backends\graphics\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\graphics\surfacesdl\surfacesdl-graphics.h">
+    <ClInclude Include="..\..\scummvm\backends\graphics\surfacesdl\surfacesdl-graphics.h">
       <Filter>backends\graphics\surfacesdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\graphics\windowed.h">
+    <ClInclude Include="..\..\scummvm\backends\graphics\windowed.h">
       <Filter>backends\graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\log\log.h">
+    <ClInclude Include="..\..\scummvm\backends\log\log.h">
       <Filter>backends\log</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\mixer\sdl\sdl-mixer.h">
+    <ClInclude Include="..\..\scummvm\backends\mixer\sdl\sdl-mixer.h">
       <Filter>backends\mixer\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\modular-backend.h">
+    <ClInclude Include="..\..\scummvm\backends\modular-backend.h">
       <Filter>backends</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\mutex\mutex.h">
+    <ClInclude Include="..\..\scummvm\backends\mutex\mutex.h">
       <Filter>backends\mutex</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\mutex\sdl\sdl-mutex.h">
+    <ClInclude Include="..\..\scummvm\backends\mutex\sdl\sdl-mutex.h">
       <Filter>backends\mutex\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\sdl-sys.h">
+    <ClInclude Include="..\..\scummvm\backends\platform\sdl\sdl-sys.h">
       <Filter>backends\platform\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\sdl-window.h">
+    <ClInclude Include="..\..\scummvm\backends\platform\sdl\sdl-window.h">
       <Filter>backends\platform\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\sdl.h">
+    <ClInclude Include="..\..\scummvm\backends\platform\sdl\sdl.h">
       <Filter>backends\platform\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\codepage.h">
+    <ClInclude Include="..\..\scummvm\backends\platform\sdl\win32\codepage.h">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\win32-window.h">
+    <ClInclude Include="..\..\scummvm\backends\platform\sdl\win32\win32-window.h">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\win32.h">
+    <ClInclude Include="..\..\scummvm\backends\platform\sdl\win32\win32.h">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\win32\win32_wrapper.h">
+    <ClInclude Include="..\..\scummvm\backends\platform\sdl\win32\win32_wrapper.h">
       <Filter>backends\platform\sdl\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\plugins\dynamic-plugin.h">
+    <ClInclude Include="..\..\scummvm\backends\plugins\dynamic-plugin.h">
       <Filter>backends\plugins</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\plugins\sdl\sdl-provider.h">
+    <ClInclude Include="..\..\scummvm\backends\plugins\sdl\sdl-provider.h">
       <Filter>backends\plugins\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\plugins\win32\win32-provider.h">
+    <ClInclude Include="..\..\scummvm\backends\plugins\win32\win32-provider.h">
       <Filter>backends\plugins\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\saves\default\default-saves.h">
+    <ClInclude Include="..\..\scummvm\backends\saves\default\default-saves.h">
       <Filter>backends\saves\default</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\saves\windows\windows-saves.h">
+    <ClInclude Include="..\..\scummvm\backends\saves\windows\windows-saves.h">
       <Filter>backends\saves\windows</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\taskbar\win32\mingw-compat.h">
+    <ClInclude Include="..\..\scummvm\backends\taskbar\win32\mingw-compat.h">
       <Filter>backends\taskbar\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\taskbar\win32\win32-taskbar.h">
+    <ClInclude Include="..\..\scummvm\backends\taskbar\win32\win32-taskbar.h">
       <Filter>backends\taskbar\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\timer\default\default-timer.h">
+    <ClInclude Include="..\..\scummvm\backends\timer\default\default-timer.h">
       <Filter>backends\timer\default</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\timer\sdl\sdl-timer.h">
+    <ClInclude Include="..\..\scummvm\backends\timer\sdl\sdl-timer.h">
       <Filter>backends\timer\sdl</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\backends\updates\win32\win32-updates.h">
+    <ClInclude Include="..\..\scummvm\backends\updates\win32\win32-updates.h">
       <Filter>backends\updates\win32</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\base\commandLine.h">
+    <ClInclude Include="..\..\scummvm\base\commandLine.h">
       <Filter>base</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\base\internal_plugins.h">
+    <ClInclude Include="..\..\scummvm\base\internal_plugins.h">
       <Filter>base</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\base\internal_version.h">
+    <ClInclude Include="..\..\scummvm\base\internal_version.h">
       <Filter>base</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\base\main.h">
+    <ClInclude Include="..\..\scummvm\base\main.h">
       <Filter>base</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\base\plugins.h">
+    <ClInclude Include="..\..\scummvm\base\plugins.h">
       <Filter>base</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\base\version.h">
+    <ClInclude Include="..\..\scummvm\base\version.h">
       <Filter>base</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\algorithm.h">
+    <ClInclude Include="..\..\scummvm\common\RTTI.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\archive.h">
+    <ClInclude Include="..\..\scummvm\common\algorithm.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\array.h">
+    <ClInclude Include="..\..\scummvm\common\archive.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\bitstream.h">
+    <ClInclude Include="..\..\scummvm\common\array.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\bufferedstream.h">
+    <ClInclude Include="..\..\scummvm\common\bitstream.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\c++11-compat.h">
+    <ClInclude Include="..\..\scummvm\common\bufferedstream.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\callback.h">
+    <ClInclude Include="..\..\scummvm\common\c++11-compat.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\config-manager.h">
+    <ClInclude Include="..\..\scummvm\common\callback.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\coroutines.h">
+    <ClInclude Include="..\..\scummvm\common\config-manager.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\cosinetables.h">
+    <ClInclude Include="..\..\scummvm\common\coroutines.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\dcl.h">
+    <ClInclude Include="..\..\scummvm\common\cosinetables.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\dct.h">
+    <ClInclude Include="..\..\scummvm\common\dcl.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\debug-channels.h">
+    <ClInclude Include="..\..\scummvm\common\dct.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\debug.h">
+    <ClInclude Include="..\..\scummvm\common\debug-channels.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\dialogs.h">
+    <ClInclude Include="..\..\scummvm\common\debug.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\encoding.h">
+    <ClInclude Include="..\..\scummvm\common\dialogs.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\endian.h">
+    <ClInclude Include="..\..\scummvm\common\encoding.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\error.h">
+    <ClInclude Include="..\..\scummvm\common\endian.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\events.h">
+    <ClInclude Include="..\..\scummvm\common\error.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\fft.h">
+    <ClInclude Include="..\..\scummvm\common\events.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\file.h">
+    <ClInclude Include="..\..\scummvm\common\fft.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\forbidden.h">
+    <ClInclude Include="..\..\scummvm\common\file.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\frac.h">
+    <ClInclude Include="..\..\scummvm\common\forbidden.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\fs.h">
+    <ClInclude Include="..\..\scummvm\common\frac.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\func.h">
+    <ClInclude Include="..\..\scummvm\common\fs.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\gui_options.h">
+    <ClInclude Include="..\..\scummvm\common\func.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\hash-ptr.h">
+    <ClInclude Include="..\..\scummvm\common\gui_options.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\hash-str.h">
+    <ClInclude Include="..\..\scummvm\common\hash-ptr.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\hashmap.h">
+    <ClInclude Include="..\..\scummvm\common\hash-str.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\huffman.h">
+    <ClInclude Include="..\..\scummvm\common\hashmap.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\iff_container.h">
+    <ClInclude Include="..\..\scummvm\common\huffman.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\ini-file.h">
+    <ClInclude Include="..\..\scummvm\common\iff_container.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\installshield_cab.h">
+    <ClInclude Include="..\..\scummvm\common\ini-file.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\inttypes.h">
+    <ClInclude Include="..\..\scummvm\common\installshield_cab.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\json.h">
+    <ClInclude Include="..\..\scummvm\common\inttypes.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\keyboard.h">
+    <ClInclude Include="..\..\scummvm\common\json.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\language.h">
+    <ClInclude Include="..\..\scummvm\common\keyboard.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\list.h">
+    <ClInclude Include="..\..\scummvm\common\language.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\list_intern.h">
+    <ClInclude Include="..\..\scummvm\common\list.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\localization.h">
+    <ClInclude Include="..\..\scummvm\common\list_intern.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\double_serialization.h">
+    <ClInclude Include="..\..\scummvm\common\localization.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\scummvm\common\lua\double_serialization.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lapi.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lapi.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lauxlib.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lauxlib.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lcode.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lcode.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ldebug.h">
+    <ClInclude Include="..\..\scummvm\common\lua\ldebug.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ldo.h">
+    <ClInclude Include="..\..\scummvm\common\lua\ldo.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lfunc.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lfunc.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lgc.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lgc.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\llex.h">
+    <ClInclude Include="..\..\scummvm\common\lua\llex.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\llimits.h">
+    <ClInclude Include="..\..\scummvm\common\lua\llimits.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lmem.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lmem.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lobject.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lobject.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lopcodes.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lopcodes.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lparser.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lparser.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lstate.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lstate.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lstring.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lstring.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ltable.h">
+    <ClInclude Include="..\..\scummvm\common\lua\ltable.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\ltm.h">
+    <ClInclude Include="..\..\scummvm\common\lua\ltm.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lua.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lua.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lua_persistence.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lua_persistence.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lua_persistence_util.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lua_persistence_util.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\luaconf.h">
+    <ClInclude Include="..\..\scummvm\common\lua\luaconf.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lualib.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lualib.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lvm.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lvm.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\lzio.h">
+    <ClInclude Include="..\..\scummvm\common\lua\lzio.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\lua\scummvm_file.h">
+    <ClInclude Include="..\..\scummvm\common\lua\scummvm_file.h">
       <Filter>common\lua</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\macresman.h">
+    <ClInclude Include="..\..\scummvm\common\macresman.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\math.h">
+    <ClInclude Include="..\..\scummvm\common\math.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\md5.h">
+    <ClInclude Include="..\..\scummvm\common\md5.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\memory.h">
+    <ClInclude Include="..\..\scummvm\common\memory.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\memorypool.h">
+    <ClInclude Include="..\..\scummvm\common\memorypool.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\memstream.h">
+    <ClInclude Include="..\..\scummvm\common\memstream.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\mutex.h">
+    <ClInclude Include="..\..\scummvm\common\mutex.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\noncopyable.h">
+    <ClInclude Include="..\..\scummvm\common\noncopyable.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\osd_message_queue.h">
+    <ClInclude Include="..\..\scummvm\common\osd_message_queue.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\pack-end.h">
+    <ClInclude Include="..\..\scummvm\common\pack-end.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\pack-start.h">
+    <ClInclude Include="..\..\scummvm\common\pack-start.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\platform.h">
+    <ClInclude Include="..\..\scummvm\common\platform.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\ptr.h">
+    <ClInclude Include="..\..\scummvm\common\ptr.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\queue.h">
+    <ClInclude Include="..\..\scummvm\common\queue.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\quicktime.h">
+    <ClInclude Include="..\..\scummvm\common\quicktime.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\random.h">
+    <ClInclude Include="..\..\scummvm\common\random.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\rational.h">
+    <ClInclude Include="..\..\scummvm\common\rational.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\rdft.h">
+    <ClInclude Include="..\..\scummvm\common\rdft.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\rect.h">
+    <ClInclude Include="..\..\scummvm\common\rect.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\rendermode.h">
+    <ClInclude Include="..\..\scummvm\common\rendermode.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\safe-bool.h">
+    <ClInclude Include="..\..\scummvm\common\safe-bool.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\savefile.h">
+    <ClInclude Include="..\..\scummvm\common\savefile.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\scummsys.h">
+    <ClInclude Include="..\..\scummvm\common\scummsys.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\serializer.h">
+    <ClInclude Include="..\..\scummvm\common\serializer.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\sinetables.h">
+    <ClInclude Include="..\..\scummvm\common\sinetables.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\singleton.h">
+    <ClInclude Include="..\..\scummvm\common\singleton.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\span.h">
+    <ClInclude Include="..\..\scummvm\common\span.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\stack.h">
+    <ClInclude Include="..\..\scummvm\common\stack.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\str-array.h">
+    <ClInclude Include="..\..\scummvm\common\str-array.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\str.h">
+    <ClInclude Include="..\..\scummvm\common\str.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\stream.h">
+    <ClInclude Include="..\..\scummvm\common\stream.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\substream.h">
+    <ClInclude Include="..\..\scummvm\common\substream.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\system.h">
+    <ClInclude Include="..\..\scummvm\common\system.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\taskbar.h">
+    <ClInclude Include="..\..\scummvm\common\taskbar.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\textconsole.h">
+    <ClInclude Include="..\..\scummvm\common\textconsole.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\timer.h">
+    <ClInclude Include="..\..\scummvm\common\timer.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\tokenizer.h">
+    <ClInclude Include="..\..\scummvm\common\tokenizer.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\translation.h">
+    <ClInclude Include="..\..\scummvm\common\translation.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\type-traits.h">
+    <ClInclude Include="..\..\scummvm\common\type-traits.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\types.h">
+    <ClInclude Include="..\..\scummvm\common\types.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\unarj.h">
+    <ClInclude Include="..\..\scummvm\common\unarj.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\unzip.h">
+    <ClInclude Include="..\..\scummvm\common\unzip.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\ustr.h">
+    <ClInclude Include="..\..\scummvm\common\ustr.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\util.h">
+    <ClInclude Include="..\..\scummvm\common\util.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\winexe.h">
+    <ClInclude Include="..\..\scummvm\common\winexe.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\winexe_ne.h">
+    <ClInclude Include="..\..\scummvm\common\winexe_ne.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\winexe_pe.h">
+    <ClInclude Include="..\..\scummvm\common\winexe_pe.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\xmlparser.h">
+    <ClInclude Include="..\..\scummvm\common\xmlparser.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\common\zlib.h">
+    <ClInclude Include="..\..\scummvm\common\zlib.h">
       <Filter>common</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\advancedDetector.h">
+    <ClInclude Include="..\..\scummvm\engines\advancedDetector.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\dialogs.h">
+    <ClInclude Include="..\..\scummvm\engines\dialogs.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\engine.h">
+    <ClInclude Include="..\..\scummvm\engines\engine.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\game.h">
+    <ClInclude Include="..\..\scummvm\engines\game.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\logo_data.h">
+    <ClInclude Include="..\..\scummvm\engines\logo_data.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\metaengine.h">
+    <ClInclude Include="..\..\scummvm\engines\metaengine.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\obsolete.h">
+    <ClInclude Include="..\..\scummvm\engines\obsolete.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\savestate.h">
+    <ClInclude Include="..\..\scummvm\engines\savestate.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\engines\util.h">
+    <ClInclude Include="..\..\scummvm\engines\util.h">
       <Filter>engines</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\VectorRenderer.h">
+    <ClInclude Include="..\..\scummvm\graphics\VectorRenderer.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\VectorRendererSpec.h">
+    <ClInclude Include="..\..\scummvm\graphics\VectorRendererSpec.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\colormasks.h">
+    <ClInclude Include="..\..\scummvm\graphics\colormasks.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\conversion.h">
+    <ClInclude Include="..\..\scummvm\graphics\conversion.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\cursor.h">
+    <ClInclude Include="..\..\scummvm\graphics\cursor.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\cursorman.h">
+    <ClInclude Include="..\..\scummvm\graphics\cursorman.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\font.h">
+    <ClInclude Include="..\..\scummvm\graphics\font.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fontman.h">
+    <ClInclude Include="..\..\scummvm\graphics\fontman.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\bdf.h">
+    <ClInclude Include="..\..\scummvm\graphics\fonts\bdf.h">
       <Filter>graphics\fonts</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\macfont.h">
+    <ClInclude Include="..\..\scummvm\graphics\fonts\macfont.h">
       <Filter>graphics\fonts</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\ttf.h">
+    <ClInclude Include="..\..\scummvm\graphics\fonts\ttf.h">
       <Filter>graphics\fonts</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\fonts\winfont.h">
+    <ClInclude Include="..\..\scummvm\graphics\fonts\winfont.h">
       <Filter>graphics\fonts</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\larryScale.h">
+    <ClInclude Include="..\..\scummvm\graphics\larryScale.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\maccursor.h">
+    <ClInclude Include="..\..\scummvm\graphics\maccursor.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macfontmanager.h">
+    <ClInclude Include="..\..\scummvm\graphics\macgui\macfontmanager.h">
       <Filter>graphics\macgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macmenu.h">
+    <ClInclude Include="..\..\scummvm\graphics\macgui\macmenu.h">
       <Filter>graphics\macgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\mactext.h">
+    <ClInclude Include="..\..\scummvm\graphics\macgui\mactext.h">
       <Filter>graphics\macgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\mactextwindow.h">
+    <ClInclude Include="..\..\scummvm\graphics\macgui\mactextwindow.h">
       <Filter>graphics\macgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macwindow.h">
+    <ClInclude Include="..\..\scummvm\graphics\macgui\macwindow.h">
       <Filter>graphics\macgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macwindowborder.h">
+    <ClInclude Include="..\..\scummvm\graphics\macgui\macwindowborder.h">
       <Filter>graphics\macgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\macgui\macwindowmanager.h">
+    <ClInclude Include="..\..\scummvm\graphics\macgui\macwindowmanager.h">
       <Filter>graphics\macgui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\managed_surface.h">
+    <ClInclude Include="..\..\scummvm\graphics\managed_surface.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\mode.h">
+    <ClInclude Include="..\..\scummvm\graphics\mode.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\nine_patch.h">
+    <ClInclude Include="..\..\scummvm\graphics\nine_patch.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\palette.h">
+    <ClInclude Include="..\..\scummvm\graphics\palette.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\pixelformat.h">
+    <ClInclude Include="..\..\scummvm\graphics\pixelformat.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\primitives.h">
+    <ClInclude Include="..\..\scummvm\graphics\primitives.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler.h">
+    <ClInclude Include="..\..\scummvm\graphics\scaler.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\aspect.h">
+    <ClInclude Include="..\..\scummvm\graphics\scaler\aspect.h">
       <Filter>graphics\scaler</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\downscaler.h">
+    <ClInclude Include="..\..\scummvm\graphics\scaler\downscaler.h">
       <Filter>graphics\scaler</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\intern.h">
+    <ClInclude Include="..\..\scummvm\graphics\scaler\intern.h">
       <Filter>graphics\scaler</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\scale2x.h">
+    <ClInclude Include="..\..\scummvm\graphics\scaler\scale2x.h">
       <Filter>graphics\scaler</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\scale3x.h">
+    <ClInclude Include="..\..\scummvm\graphics\scaler\scale3x.h">
       <Filter>graphics\scaler</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\scalebit.h">
+    <ClInclude Include="..\..\scummvm\graphics\scaler\scalebit.h">
       <Filter>graphics\scaler</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\screen.h">
+    <ClInclude Include="..\..\scummvm\graphics\screen.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\sjis.h">
+    <ClInclude Include="..\..\scummvm\graphics\sjis.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\surface.h">
+    <ClInclude Include="..\..\scummvm\graphics\surface.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\thumbnail.h">
+    <ClInclude Include="..\..\scummvm\graphics\thumbnail.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\transform_struct.h">
+    <ClInclude Include="..\..\scummvm\graphics\transform_struct.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\transform_tools.h">
+    <ClInclude Include="..\..\scummvm\graphics\transform_tools.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\transparent_surface.h">
+    <ClInclude Include="..\..\scummvm\graphics\transparent_surface.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\wincursor.h">
+    <ClInclude Include="..\..\scummvm\graphics\wincursor.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\yuv_to_rgb.h">
+    <ClInclude Include="..\..\scummvm\graphics\yuv_to_rgb.h">
       <Filter>graphics</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\Actions.h">
+    <ClInclude Include="..\..\scummvm\gui\Actions.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\EventRecorder.h">
+    <ClInclude Include="..\..\scummvm\gui\EventRecorder.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\Key.h">
+    <ClInclude Include="..\..\scummvm\gui\Key.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\KeysDialog.h">
+    <ClInclude Include="..\..\scummvm\gui\KeysDialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeEngine.h">
+    <ClInclude Include="..\..\scummvm\gui\ThemeEngine.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeEval.h">
+    <ClInclude Include="..\..\scummvm\gui\ThemeEval.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeLayout.h">
+    <ClInclude Include="..\..\scummvm\gui\ThemeLayout.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\ThemeParser.h">
+    <ClInclude Include="..\..\scummvm\gui\ThemeParser.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\Tooltip.h">
+    <ClInclude Include="..\..\scummvm\gui\Tooltip.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\about.h">
+    <ClInclude Include="..\..\scummvm\gui\about.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\AccelerateInterpolator.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\AccelerateInterpolator.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\AlphaAnimation.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\AlphaAnimation.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\Animation.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\Animation.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\DeccelerateInterpolator.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\DeccelerateInterpolator.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\Drawable.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\Drawable.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\Interpolator.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\Interpolator.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\ParallelAnimation.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\ParallelAnimation.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\RepeatAnimationWrapper.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\RepeatAnimationWrapper.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\ScaleAnimation.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\ScaleAnimation.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\SequenceAnimationComposite.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\SequenceAnimationComposite.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\animation\WaitForConditionAnimation.h">
+    <ClInclude Include="..\..\scummvm\gui\animation\WaitForConditionAnimation.h">
       <Filter>gui\animation</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\browser.h">
+    <ClInclude Include="..\..\scummvm\gui\browser.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\chooser.h">
+    <ClInclude Include="..\..\scummvm\gui\chooser.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\console.h">
+    <ClInclude Include="..\..\scummvm\gui\console.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\credits.h">
+    <ClInclude Include="..\..\scummvm\gui\credits.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\debugger.h">
+    <ClInclude Include="..\..\scummvm\gui\debugger.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\dialog.h">
+    <ClInclude Include="..\..\scummvm\gui\dialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\editgamedialog.h">
+    <ClInclude Include="..\..\scummvm\gui\editgamedialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\error.h">
+    <ClInclude Include="..\..\scummvm\gui\error.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\filebrowser-dialog.h">
+    <ClInclude Include="..\..\scummvm\gui\filebrowser-dialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\fluidsynth-dialog.h">
+    <ClInclude Include="..\..\scummvm\gui\fluidsynth-dialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\gui-manager.h">
+    <ClInclude Include="..\..\scummvm\gui\gui-manager.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\launcher.h">
+    <ClInclude Include="..\..\scummvm\gui\launcher.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\massadd.h">
+    <ClInclude Include="..\..\scummvm\gui\massadd.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\message.h">
+    <ClInclude Include="..\..\scummvm\gui\message.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\object.h">
+    <ClInclude Include="..\..\scummvm\gui\object.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\options.h">
+    <ClInclude Include="..\..\scummvm\gui\options.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\predictivedialog.h">
+    <ClInclude Include="..\..\scummvm\gui\predictivedialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\saveload-dialog.h">
+    <ClInclude Include="..\..\scummvm\gui\saveload-dialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\saveload.h">
+    <ClInclude Include="..\..\scummvm\gui\saveload.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\themebrowser.h">
+    <ClInclude Include="..\..\scummvm\gui\themebrowser.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\unknown-game-dialog.h">
+    <ClInclude Include="..\..\scummvm\gui\unknown-game-dialog.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widget.h">
+    <ClInclude Include="..\..\scummvm\gui\widget.h">
       <Filter>gui</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\editable.h">
+    <ClInclude Include="..\..\scummvm\gui\widgets\editable.h">
       <Filter>gui\widgets</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\edittext.h">
+    <ClInclude Include="..\..\scummvm\gui\widgets\edittext.h">
       <Filter>gui\widgets</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\list.h">
+    <ClInclude Include="..\..\scummvm\gui\widgets\list.h">
       <Filter>gui\widgets</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\popup.h">
+    <ClInclude Include="..\..\scummvm\gui\widgets\popup.h">
       <Filter>gui\widgets</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\scrollbar.h">
+    <ClInclude Include="..\..\scummvm\gui\widgets\scrollbar.h">
       <Filter>gui\widgets</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\scrollcontainer.h">
+    <ClInclude Include="..\..\scummvm\gui\widgets\scrollcontainer.h">
       <Filter>gui\widgets</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\gui\widgets\tab.h">
+    <ClInclude Include="..\..\scummvm\gui\widgets\tab.h">
       <Filter>gui\widgets</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\bmp.h">
+    <ClInclude Include="..\..\scummvm\image\bmp.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\bmp_raw.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\bmp_raw.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\cdtoons.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\cdtoons.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\cinepak.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\cinepak.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\cinepak_tables.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\cinepak_tables.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\codec.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\codec.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo3.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo3.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo4.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo4.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo5.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo5.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\get_bits.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo\get_bits.h">
       <Filter>image\codecs\indeo</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\indeo.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo\indeo.h">
       <Filter>image\codecs\indeo</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\indeo_dsp.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo\indeo_dsp.h">
       <Filter>image\codecs\indeo</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\mem.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo\mem.h">
       <Filter>image\codecs\indeo</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\indeo\vlc.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\indeo\vlc.h">
       <Filter>image\codecs\indeo</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\mjpeg.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\mjpeg.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\msrle.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\msrle.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\msrle4.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\msrle4.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\msvideo1.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\msvideo1.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\qtrle.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\qtrle.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\rpza.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\rpza.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\smc.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\smc.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\svq1.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\svq1.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\svq1_cb.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\svq1_cb.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\svq1_vlc.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\svq1_vlc.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\truemotion1.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\truemotion1.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\codecs\truemotion1data.h">
+    <ClInclude Include="..\..\scummvm\image\codecs\truemotion1data.h">
       <Filter>image\codecs</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\iff.h">
+    <ClInclude Include="..\..\scummvm\image\iff.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\image_decoder.h">
+    <ClInclude Include="..\..\scummvm\image\image_decoder.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\jpeg.h">
+    <ClInclude Include="..\..\scummvm\image\jpeg.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\pcx.h">
+    <ClInclude Include="..\..\scummvm\image\pcx.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\pict.h">
+    <ClInclude Include="..\..\scummvm\image\pict.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\png.h">
+    <ClInclude Include="..\..\scummvm\image\png.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\image\tga.h">
+    <ClInclude Include="..\..\scummvm\image\tga.h">
       <Filter>image</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\avi_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\avi_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\binkdata.h">
+    <ClInclude Include="..\..\scummvm\video\binkdata.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\coktel_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\coktel_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\dxa_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\dxa_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\flic_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\flic_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\mpegps_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\mpegps_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\psx_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\psx_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\qt_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\qt_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\smk_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\smk_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
-    <ClInclude Include="D:\github\yuzaos\sample\emulator\scummvm\video\video_decoder.h">
+    <ClInclude Include="..\..\scummvm\video\video_decoder.h">
       <Filter>video</Filter>
     </ClInclude>
     <ClInclude Include="..\backends\fs\yuza\yuza.h">
@@ -2398,62 +2401,54 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\AUTHORS" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\COPYING" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\COPYING.BSD" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\COPYING.FREEFONT" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\COPYING.LGPL" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\COPYING.OFL" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\COPYRIGHT" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\TODO" />
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\audio\module.mk">
+    <None Include="..\..\scummvm\audio\module.mk">
       <Filter>audio</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\audio\softsynth\mt32\module.mk">
+    <None Include="..\..\scummvm\audio\softsynth\mt32\module.mk">
       <Filter>audio\softsynth\mt32</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\backends\module.mk">
+    <None Include="..\..\scummvm\backends\module.mk">
       <Filter>backends</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\backends\platform\sdl\module.mk">
+    <None Include="..\..\scummvm\backends\platform\sdl\module.mk">
       <Filter>backends\platform\sdl</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\base\module.mk">
+    <None Include="..\..\scummvm\base\module.mk">
       <Filter>base</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\common\module.mk">
+    <None Include="..\..\scummvm\common\module.mk">
       <Filter>common</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\engines\module.mk">
+    <None Include="..\..\scummvm\engines\module.mk">
       <Filter>engines</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\module.mk">
+    <None Include="..\..\scummvm\graphics\module.mk">
       <Filter>graphics</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\gui\module.mk">
+    <None Include="..\..\scummvm\gui\module.mk">
       <Filter>gui</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\icons\scummvm.ico">
+    <None Include="..\..\scummvm\icons\scummvm.ico">
       <Filter>icons</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\image\module.mk">
+    <None Include="..\..\scummvm\image\module.mk">
       <Filter>image</Filter>
     </None>
-    <None Include="D:\github\yuzaos\sample\emulator\scummvm\video\module.mk">
+    <None Include="..\..\scummvm\video\module.mk">
       <Filter>video</Filter>
     </None>
-    <None Include="D:/github/yuzaos/sample/emulator/scummvm/devtools/create_project/scripts/scummvm.natvis" />
+    <None Include="../../scummvm/devtools/create_project/scripts/scummvm.natvis" />
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="D:\github\yuzaos\sample\emulator\scummvm\dists\scummvm.rc">
+    <ResourceCompile Include="..\..\scummvm\dists\scummvm.rc">
       <Filter>dists</Filter>
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\hq2x_i386.asm">
+    <CustomBuild Include="..\..\scummvm\graphics\scaler\hq2x_i386.asm">
       <Filter>graphics\scaler</Filter>
     </CustomBuild>
-    <CustomBuild Include="D:\github\yuzaos\sample\emulator\scummvm\graphics\scaler\hq3x_i386.asm">
+    <CustomBuild Include="..\..\scummvm\graphics\scaler\hq3x_i386.asm">
       <Filter>graphics\scaler</Filter>
     </CustomBuild>
   </ItemGroup>

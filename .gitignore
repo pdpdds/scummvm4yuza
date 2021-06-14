@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+/.vs
+/Intermediate
+/scummvm/build
+/Debug
+scummvm/devtools/create_project/msvc/create_project.vcxproj.user
+scummvm/dists/RCa06392
+scummvm/dists/RCb06392
+scummvm/dists/RCc06392
+scummvm/dists/scummvm.aps
