@@ -118,7 +118,7 @@
       <DisableLanguageExtensions>false</DisableLanguageExtensions>
       <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
       <AdditionalIncludeDirectories>./;../;../engines;$(YUZA_ROOT)/corelib/include;$(YUZA_ROOT)/runtime/include;$(YUZA_ROOT)/ThirdParty/SDL/SDL2/SDL/include;$(YUZA_ROOT)/ThirdParty/SDL/SDL2/SDLimage;$(YUZA_ROOT)/runtime/include/ansic;$(YUZA_ROOT)/corelib/streams</AdditionalIncludeDirectories>
-      <PreprocessorDefinitions>_WIN32;SYSTEM_NOT_SUPPORTING_D_TYPE;SKYOS32;_MSC_VER=1920;FORBIDDEN_SYMBOL_ALLOW_ALL;COMPILEDVERSION=1230;SDL_BACKEND;USE_NASM;USE_HQ_SCALERS</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_WIN32;SYSTEM_NOT_SUPPORTING_D_TYPE;SKYOS32;_MSC_VER=1920;FORBIDDEN_SYMBOL_ALLOW_ALL;COMPILEDVERSION=1230;SDL_BACKEND;USE_NASM;USE_HQ_SCALERS;ENABLE_HUGO</PreprocessorDefinitions>
       <DisableSpecificWarnings>4819;4310;4309;4828;4244;4100;4267;4702;4706;4389;4250;4103;4068;4127;4701;4005</DisableSpecificWarnings>
       <UndefineAllPreprocessorDefinitions>true</UndefineAllPreprocessorDefinitions>
       <IgnoreStandardIncludePath>true</IgnoreStandardIncludePath>
